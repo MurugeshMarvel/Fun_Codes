@@ -106,7 +106,7 @@ if __name__ == '__main__':
         if(key & 0xFF == ord('q')):
             break
 
-        elif(key == 65364):
+        elif(key == 65363):
             index2=0
             index_c = str(index) + "-" + str(index2)
             if(obj_count > 0):
